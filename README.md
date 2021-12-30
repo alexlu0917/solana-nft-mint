@@ -1,5 +1,8 @@
-##Solana NFT Minter
+# Solana NFT Minter
+
 web application to mint solana NFT using spl-token
+
+## prerequisities
 - NodeJS - install through [NVM](https://github.com/nvm-sh/nvm)
 - [Yarn](https://classic.yarnpkg.com/lang/en/docs/install/)
 ## development steps
